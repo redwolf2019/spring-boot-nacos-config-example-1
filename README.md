@@ -1,4 +1,7 @@
 ### 步骤
+
+- 在NACOS上建立DataID:example的Properties配置文件
+
 - 建立SpringBoot工程
 
 - 添加JAR包依赖
